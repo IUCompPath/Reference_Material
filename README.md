@@ -25,15 +25,12 @@ This repository contains various sources of open-source reading and reference ma
 - [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - `Intermediate`
 
 
-
-
 ## Data Science
 
 ### Fundamentals
 - [Fundamental Numerical Methods and Data Analysis](http://ads.harvard.edu/books/1990fnmd.book/) - George W. Collins - `Beginner`
 - [Introduction to Metadata](http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html) - Murtha Baca - `Beginner`
 - [Modeling with Data: Tools and Techniques for Scientific Computing](http://modelingwithdata.org/about_the_book.html) - Ben Klemens - `Beginner`
-
 
 ### Statistics
 
@@ -51,6 +48,7 @@ This repository contains various sources of open-source reading and reference ma
 - [Plotting and Visualization in Python](http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb) - `Beginner`
 - [ggplot2: Elegant Graphics for Data Analysis](https://github.com/hadley/ggplot2-book) - Hadley Wickham - `Beginner`
 
+
 ## Machine Learning
 
 - [A Course in Machine Learning](http://ciml.info/) - Hal Daume - `Beginner`
@@ -58,6 +56,7 @@ This repository contains various sources of open-source reading and reference ma
 - [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 - [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
+
 
 ## Software Engineering
 
@@ -74,4 +73,4 @@ This repository contains various sources of open-source reading and reference ma
 # Acknowledgements
 
 - https://github.com/chaconnewu/free-data-science-books
-- 
+- https://www.itcrtraining.org/
