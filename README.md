@@ -5,9 +5,17 @@ This repository contains various sources of open-source reading and reference ma
 
 ## Table of Contents
 
-
-
-
+- [Reference Material](#reference-material)
+  - [Table of Contents](#table-of-contents)
+  - [Deep Learning](#deep-learning)
+  - [Data Science](#data-science)
+    - [Fundamentals](#fundamentals)
+    - [Statistics](#statistics)
+    - [Data Visualization](#data-visualization)
+  - [Machine Learning](#machine-learning)
+  - [Software Engineering](#software-engineering)
+  - [Miscellaneous](#miscellaneous)
+- [Acknowledgements](#acknowledgements)
 
 
 ## Deep Learning
@@ -53,8 +61,15 @@ This repository contains various sources of open-source reading and reference ma
 
 ## Software Engineering
 
+- [Documentation](https://www.itcrtraining.org/resources/courses#:~:text=DOCUMENTATION%20AND%20USABILITY) - `Beginner`
+- [AI for software development](https://www.itcrtraining.org/resources/courses#:~:text=AI%20FOR%20EFFICIENT%20PROGRAMMING) - `Intermediate`
 
 
+## Miscellaneous
+
+- [Intro to Latex and Overleaf](https://www.itcrtraining.org/resources/courses#:~:text=INTRODUCTION%20TO%20LATEX%20AND%20OVERLEAF%20FOR%20SCIENTIFIC%20ARTICLES) - `Beginner`
+- [Introduction to reproducibility in cancer informatics](https://www.itcrtraining.org/resources/courses#:~:text=INTRODUCTION%20TO%20REPRODUCIBILITY%20IN%20CANCER%20INFORMATICS) - `Beginner`
+- [Advanced reproducibility](https://www.itcrtraining.org/resources/courses#:~:text=ADVANCED%20REPRODUCIBILITY%20IN%20CANCER%20INFORMATICS) - `Intermediate`
 
 # Acknowledgements
 
