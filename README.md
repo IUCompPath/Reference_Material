@@ -1,2 +1,3 @@
-# reference_material
-Reading and reference material to get jump started with some related work I do
+# Reference Material
+
+This repository contains various sources of reading and reference material to get jump started on different areas of work that I am interested in.
