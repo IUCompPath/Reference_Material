@@ -14,7 +14,7 @@ This repository contains various sources of open-source reading and reference ma
 
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/): Collection of notes and resources for a graduate course on deep learning.
 - [Deep Learning Book](https://www.deeplearningbook.org/): An MIT Press book by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
-* [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - `Intermediate`
+- [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - `Intermediate`
 
 
 
@@ -30,26 +30,26 @@ This repository contains various sources of open-source reading and reference ma
 ### Statistics
 
 - [Think Stats](http://greenteapress.com/thinkstats2/thinkstats2.pdf) - Allen B. Downey - `Beginner`
-* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html) - Charles M. Grinstead and J. Laurie Snell - `Beginner`
-* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine - `Beginner`
-* [OpenIntro Statistics - Second Edition](http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
-* [Applied Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
-* [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry - `Beginner`
-* [Forecasting: Principles and Practice](https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos - `Intermediate`
+- [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html) - Charles M. Grinstead and J. Laurie Snell - `Beginner`
+- [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine - `Beginner`
+- [OpenIntro Statistics - Second Edition](http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel - `Beginner`
+- [Applied Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - `Intermediate`
+- [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry - `Beginner`
+- [Forecasting: Principles and Practice](https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos - `Intermediate`
 
 ### Data Visualization
 
-* [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
-* [Plotting and Visualization in Python](http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb) - `Beginner`
-* [ggplot2: Elegant Graphics for Data Analysis](https://github.com/hadley/ggplot2-book) - Hadley Wickham - `Beginner`
+- [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html) - Scott Murray - `Beginner`
+- [Plotting and Visualization in Python](http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb) - `Beginner`
+- [ggplot2: Elegant Graphics for Data Analysis](https://github.com/hadley/ggplot2-book) - Hadley Wickham - `Beginner`
 
 ## Machine Learning
 
-* [A Course in Machine Learning](http://ciml.info/) - Hal Daume - `Beginner`
-* [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
-* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
-* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
-* [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
+- [A Course in Machine Learning](http://ciml.info/) - Hal Daume - `Beginner`
+- [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
+- [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
+- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
+- [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
 
 ## Software Engineering
 
