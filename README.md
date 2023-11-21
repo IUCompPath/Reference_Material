@@ -20,8 +20,8 @@ This repository contains various sources of open-source reading and reference ma
 
 ## Deep Learning
 
-- [Understanding Deep Learning](https://udlbook.github.io/udlbook/): Collection of notes and resources for a graduate course on deep learning.
-- [Deep Learning Book](https://www.deeplearningbook.org/): An MIT Press book by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/): Collection of notes and resources for a graduate course on deep learning. - `Beginner` and `Intermediate`
+- [Deep Learning Book](https://www.deeplearningbook.org/): An MIT Press book by Ian Goodfellow, Yoshua Bengio and Aaron Courville. - `Beginner` and `Intermediate`
 - [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - `Intermediate`
 
 
