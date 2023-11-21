@@ -1,6 +1,6 @@
 # Reference Material
 
-This repository contains various sources of open-source reading and reference material to get jump started on different areas of work that I am interested in.
+This repository contains various sources of open-source reading and reference material to get jump started on different areas of work that we are interested in.
 
 
 ## Table of Contents
