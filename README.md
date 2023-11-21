@@ -7,22 +7,15 @@ This repository contains various sources of open-source reading and reference ma
 
 - [Reference Material](#reference-material)
   - [Table of Contents](#table-of-contents)
-  - [Deep Learning](#deep-learning)
   - [Data Science](#data-science)
     - [Fundamentals](#fundamentals)
     - [Statistics](#statistics)
     - [Data Visualization](#data-visualization)
   - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
   - [Software Engineering](#software-engineering)
   - [Miscellaneous](#miscellaneous)
 - [Acknowledgements](#acknowledgements)
-
-
-## Deep Learning
-
-- [Understanding Deep Learning](https://udlbook.github.io/udlbook/): Collection of notes and resources for a graduate course on deep learning. - `Beginner` and `Intermediate`
-- [Deep Learning Book](https://www.deeplearningbook.org/): An MIT Press book by Ian Goodfellow, Yoshua Bengio and Aaron Courville. - `Beginner` and `Intermediate`
-- [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - `Intermediate`
 
 
 ## Data Science
@@ -56,6 +49,13 @@ This repository contains various sources of open-source reading and reference ma
 - [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 - [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
+
+
+## Deep Learning
+
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/): Collection of notes and resources for a graduate course on deep learning. - `Beginner` and `Intermediate`
+- [Deep Learning Book](https://www.deeplearningbook.org/): An MIT Press book by Ian Goodfellow, Yoshua Bengio and Aaron Courville. - `Beginner` and `Intermediate`
+- [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - `Intermediate`
 
 
 ## Software Engineering
