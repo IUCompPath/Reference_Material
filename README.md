@@ -49,6 +49,7 @@ This repository contains various sources of open-source reading and reference ma
 - [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 - [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
+- https://harvard-edge.github.io/cs249r_book/
 
 
 ## Deep Learning
