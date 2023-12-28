@@ -7,6 +7,7 @@ This repository contains various sources of open-source reading and reference ma
 
 - [Reference Material](#reference-material)
   - [Table of Contents](#table-of-contents)
+  - [Introductory Courses](#introductory-courses)
   - [Data Science](#data-science)
     - [Fundamentals](#fundamentals)
     - [Statistics](#statistics)
@@ -17,6 +18,12 @@ This repository contains various sources of open-source reading and reference ma
   - [Miscellaneous](#miscellaneous)
 - [Acknowledgements](#acknowledgements)
 
+
+## Introductory Courses
+
+- https://microsoft.github.io/AI-For-Beginners/
+- https://microsoft.github.io/ML-For-Beginners/
+- 
 
 ## Data Science
 
@@ -49,7 +56,7 @@ This repository contains various sources of open-source reading and reference ma
 - [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 - [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
-- https://harvard-edge.github.io/cs249r_book/
+- [ML Systems with TinyML](https://harvard-edge.github.io/cs249r_book/) - Prof. Vijay Janapa Reddi - `Intermediate`
 
 
 ## Deep Learning
