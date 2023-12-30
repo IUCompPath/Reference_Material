@@ -21,9 +21,10 @@ This repository contains various sources of open-source reading and reference ma
 
 ## Introductory Courses
 
-- https://microsoft.github.io/AI-For-Beginners/
-- https://microsoft.github.io/ML-For-Beginners/
-- 
+- General-purpose AI: https://microsoft.github.io/AI-For-Beginners/
+- ML: https://microsoft.github.io/ML-For-Beginners/
+- Data science: https://pub.towardsai.net/simple-but-effective-free-roadmap-to-start-a-career-in-data-science-ai-in-2023-9d17c76a184b
+- Data analytics: https://levelup.gitconnected.com/comprehensive-data-analytics-roadmap-for-2023-with-free-resources-adfefc0d0d7f
 
 ## Data Science
 
