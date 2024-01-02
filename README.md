@@ -21,10 +21,16 @@ This repository contains various sources of open-source reading and reference ma
 
 ## Introductory Courses
 
+- Math primer: https://aman.ai/primers/math/
 - General-purpose AI: https://microsoft.github.io/AI-For-Beginners/
 - ML: https://microsoft.github.io/ML-For-Beginners/
+  - Backprop primer: https://aman.ai/primers/backprop/
 - Data science: https://pub.towardsai.net/simple-but-effective-free-roadmap-to-start-a-career-in-data-science-ai-in-2023-9d17c76a184b
 - Data analytics: https://levelup.gitconnected.com/comprehensive-data-analytics-roadmap-for-2023-with-free-resources-adfefc0d0d7f
+- Roadmaps of interest
+  - Python: https://roadmap.sh/python
+  - AI and Data scientist: https://roadmap.sh/ai-data-scientist
+  - 
 
 ## Data Science
 
