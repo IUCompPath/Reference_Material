@@ -30,7 +30,6 @@ This repository contains various sources of open-source reading and reference ma
 - Roadmaps of interest
   - Python: https://roadmap.sh/python
   - AI and Data scientist: https://roadmap.sh/ai-data-scientist
-  - 
 
 ## Data Science
 
@@ -38,6 +37,7 @@ This repository contains various sources of open-source reading and reference ma
 - [Fundamental Numerical Methods and Data Analysis](http://ads.harvard.edu/books/1990fnmd.book/) - George W. Collins - `Beginner`
 - [Introduction to Metadata](http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html) - Murtha Baca - `Beginner`
 - [Modeling with Data: Tools and Techniques for Scientific Computing](http://modelingwithdata.org/about_the_book.html) - Ben Klemens - `Beginner`
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, and Ravindran Kannan - `Intermediate`
 
 ### Statistics
 
@@ -60,6 +60,7 @@ This repository contains various sources of open-source reading and reference ma
 
 - [A Course in Machine Learning](http://ciml.info/) - Hal Daume - `Beginner`
 - [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf) - Max Welling - `Beginner`
+- [Machine Learning Yearning](https://wordpress.deeplearning.ai/wp-content/uploads/2022/03/andrew-ng-machine-learning-yearning.pdf) - Andrew Ng. - `Beginner`
 - [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan - `Intermediate`
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (main author) - `Intermediate`
 - [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato - `Intermediate`
