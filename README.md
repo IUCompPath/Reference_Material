@@ -82,9 +82,12 @@ This repository contains various sources of open-source reading and reference ma
 # Academic Writing
 
 - [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619) - `Beginner`
-- [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/) - `Beginner`
+- [The Structure of An Academic Paper](https://communicate.gse.harvard.edu/files/commlab/files/_structure_of_a_paper.pdf) - `Beginner`
+- [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4) - `Beginner`
 - [Structuring Paragraphs](https://igorbrigadir.github.io/files/Paragraphs__Central_Contribution.pdf) - `Beginner`
 - [Writing an Abstract](https://www.nature.com/documents/nature-summary-paragraph.pdf) - `Beginner`
+- [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/) - `Beginner`
+- [Essay and dissertation writing skills](https://www.ox.ac.uk/students/academic/guidance/skills/essay) - `Intermediate` 
 
 
 # Miscellaneous
@@ -97,3 +100,4 @@ This repository contains various sources of open-source reading and reference ma
 
 - https://github.com/chaconnewu/free-data-science-books
 - https://www.itcrtraining.org/
+- https://github.com/chinasatokolo/academic_writing
