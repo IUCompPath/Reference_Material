@@ -88,7 +88,7 @@ This repository contains various sources of open-source reading and reference ma
 - [Writing an Abstract](https://www.nature.com/documents/nature-summary-paragraph.pdf) - `Beginner`
 - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/) - `Beginner`
 - [Essay and dissertation writing skills](https://www.ox.ac.uk/students/academic/guidance/skills/essay) - `Intermediate` 
-- Setting up a local Latex editor for Overleaf projects:
+- Setting up a local Latex editor for Overleaf projects - `Intermediate`:
   1. Ensure that the owner of the Overleaf project has a premium subscription, because we need the [Git integration feature](https://www.overleaf.com/learn/how-to/Overleaf_premium_features#Git_and_GitHub_integration).
   2. Once the new project is created, follow [this guide](https://www.overleaf.com/learn/how-to/GitHub_Synchronization) to ensure that the project is linked to a GitHub repository. It is recommended to keep the repository private.
   3. Set up a Latex compiler on your local machine. For Windows, [MikTex](https://miktex.org/download) is recommended. For Linux, [TexLive](https://tug.org/texlive/) is recommended.
