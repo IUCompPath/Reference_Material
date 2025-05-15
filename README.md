@@ -77,6 +77,7 @@ This repository contains various sources of open-source reading and reference ma
 
 - [Documentation](https://www.itcrtraining.org/resources/courses#:~:text=DOCUMENTATION%20AND%20USABILITY) - `Beginner`
 - [AI for software development](https://www.itcrtraining.org/resources/courses#:~:text=AI%20FOR%20EFFICIENT%20PROGRAMMING) - `Intermediate`
+- [Better Code, Better Science](https://russpoldrack.substack.com/p/better-code-better-science) - `Beginner to Intermediate`
 
 
 # Academic Writing
